@@ -1,13 +1,12 @@
 # Today's State
-- Energy: medium
+- Energy: on and off, tired now
+- Mood: tired
 - Last updated: 2026-03-14
 
 # Projects
-(empty for now)
+- arcform
+- drmk
+- mood sharing service
 
 # Focus
-(nothing yet)
-
-# Comments
-comment from iPhone
-comment 2
+arcform
