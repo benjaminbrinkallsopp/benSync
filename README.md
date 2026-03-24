@@ -1,12 +1,10 @@
 # Today's State
-- Energy: on and off, tired now
-- Mood: tired
-- Last updated: 2026-03-14
+- Energy: unknown
+- Mood: unhappy
+- Last updated: 2026-03-24
 
 # Projects
-- arcform
-- drmk
-- mood sharing service
+(not yet shared)
 
 # Focus
-arcform
+(not yet shared)
